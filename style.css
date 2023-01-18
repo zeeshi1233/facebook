@@ -1,0 +1,84 @@
+body{
+background-color: rgb(220, 220, 220);
+
+}
+
+.fb{
+margin-top:180px ;
+margin-left: 100px;
+
+}
+
+h2{
+    margin-top:-17px ;
+width:430px ;
+font-size:28px ;
+margin-left:30px ;
+font-weight:400 ;
+}
+.box{
+background-color: #fff;
+height:350px ;
+width: 370px;
+float:right ;
+margin-top:-240px ;
+margin-right:150px ;
+border-radius: 10px;
+box-shadow:10px 10px 50px rgb(225, 223, 223);
+}
+ input{
+border-radius:6px ;
+width:340px ;
+height:36px ;
+margin-left:10px ;
+outline: #1877f2;
+margin-top:20px ;
+border-color: rgb(185, 185, 185);
+box-shadow:10px 5px 10px rgb(216, 216, 216) ;
+background-color:  rgb(228, 228, 228);
+}
+.mn{
+color: #1877f2;
+
+}
+.button{
+margin-top:20px ;
+background-color: #1877f2;
+color: white;
+font-size:20px;
+font-weight: bold;
+border: none;
+width:340px ;
+height: 45px;
+border-radius: 5px;
+cursor: pointer;
+
+}
+.cta{
+    margin-top:20px ;
+    background-color: #1877f2;
+    color: white;  
+    background-color:  #42b72a;
+    font-weight: bold;
+    border: #42b72a;
+    width:240px ;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    cursor: pointer;
+    padding: 0 16px;
+}
+input:focus{
+cursor: pointer;
+    border-color: #1877f2;
+}
+.an a {
+    margin-top: 20px;
+color: black;
+
+
+}
+hr{
+    width:340px ;
+}
